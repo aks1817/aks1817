@@ -57,5 +57,5 @@ Here are some ideas to get you started: -->
 
 ## 🤝 Support Me:
 
-<a href="" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height="60px" width="200px"></a>
+<img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height="60px" width="200px">
 
